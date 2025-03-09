@@ -13,5 +13,5 @@ This is a simple weather app that fetches weather data based on user input and c
 1. Install Python 3 and `pip`
 2. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/weather-app.git
+   git clone https://github.com/arnavbalaji/weather-app.git
    cd weather-app
