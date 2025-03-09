@@ -7,9 +7,7 @@ This is a simple weather app that fetches weather data based on user input and c
 - Get current location weather using GPS
 - 5-day forecast display
 
-## Installation
-
-### Backend (Python + Flask)
+## Installation and Running
 1. Install Python 3 and `pip`
 2. Clone the repository:
    ```bash
